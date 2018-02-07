@@ -2,8 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Het_rekeningrijder_systeem_main" target="1.8" />
+      <module name="Het_rekeningrijder_systeem_test" target="1.8" />
       <module name="module-naam_main" target="1.8" />
       <module name="module-naam_test" target="1.8" />
+      <module name="Politie_Systeem_main" target="1.8" />
+      <module name="Politie_Systeem_test" target="1.8" />
+      <module name="Registratie_van_verplaatsingen_main" target="1.8" />
+      <module name="Registratie_van_verplaatsingen_test" target="1.8" />
+      <module name="Rekeningadministratie_van_de_overheid_main" target="1.8" />
+      <module name="Rekeningadministratie_van_de_overheid_test" target="1.8" />
+      <module name="Simulatie_Systeem_main" target="1.8" />
+      <module name="Simulatie_Systeem_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

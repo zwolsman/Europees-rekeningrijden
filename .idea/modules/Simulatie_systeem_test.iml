@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Simulatie systeem:test" external.linked.project.path="$MODULE_DIR$/../../Simulatie Systeem" external.root.project.path="$MODULE_DIR$/../../Simulatie Systeem" external.system.id="GRADLE" external.system.module.group="com.s53d" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../Simulatie Systeem/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Simulatie Systeem/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../Simulatie Systeem/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Simulatie Systeem/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Simulatie Systeem/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestModuleProperties" production-module="Simulatie_systeem_main" />
+</module>

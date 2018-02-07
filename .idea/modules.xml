@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-naam.iml" filepath="$PROJECT_DIR$/.idea/modules/module-naam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Het rekeningrijder systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Het rekeningrijder systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem_main.iml" group="Het_rekeningrijder_systeem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Het_rekeningrijder_systeem_test.iml" group="Het_rekeningrijder_systeem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Landen monitoring systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Landen monitoring systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Politie systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Politie systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Politie_systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Politie_systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Politie_systeem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Politie_systeem_main.iml" group="Politie_systeem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Politie_systeem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Politie_systeem_test.iml" group="Politie_systeem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen.iml" filepath="$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen_main.iml" group="Registratie_van_verplaatsingen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Registratie_van_verplaatsingen_test.iml" group="Registratie_van_verplaatsingen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekeningadministratie van de overheid.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekeningadministratie van de overheid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid_main.iml" group="Rekeningadministratie_van_de_overheid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekeningadministratie_van_de_overheid_test.iml" group="Rekeningadministratie_van_de_overheid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simulatie systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Simulatie systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simulatie_systeem.iml" filepath="$PROJECT_DIR$/.idea/modules/Simulatie_systeem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simulatie_systeem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simulatie_systeem_main.iml" group="Simulatie_systeem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simulatie_systeem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simulatie_systeem_test.iml" group="Simulatie_systeem" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-naam_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-naam_main.iml" group="module-naam" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-naam_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-naam_test.iml" group="module-naam" />
     </modules>
